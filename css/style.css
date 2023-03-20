@@ -1,0 +1,153 @@
+header {
+    height: 80px;
+}
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.myheader {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    font-family: "Raleway", sans-serif;
+    font-size: 15.742380142211914px;
+    font-weight: 400;
+    line-height: 36.99894714355469px;
+    font-style: normal;
+    text-align: center;
+    color: #303134;
+}
+
+.s-1 {
+    height: 620px;
+    background-image: url("../images/05-Background\ \ .png"),
+        url("../images/jens-kreuter-96.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.text-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-wrapper h2 {
+    font-family: "Raleway", sans-serif;
+    font-size: 78.74051666259766px;
+    font-weight: 400;
+    line-height: 52.95845413208008px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    margin-bottom: 55px;
+}
+.text-wrapper h5 {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 37px;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.mywrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-wrapper {
+    width: 235px;
+    height: 240px;
+    margin-right: 20px;
+}
+
+.info-wrapper h4 {
+    font-family: "Raleway", sans-serif;
+    font-size: 15.998350143432617px;
+    font-weight: 400;
+    line-height: 36.99618911743164px;
+    font-style: normal;
+    text-align: left;
+    color: #8d8d8d;
+    margin-bottom: 14px;
+}
+
+.info-wrapper h2 {
+    font-family: "Raleway", sans-serif;
+    font-size: 25.9973201751709px;
+    font-weight: 400;
+    line-height: 36.99618911743164px;
+    font-style: normal;
+    text-align: left;
+    color: #1a1a1b;
+    margin-bottom: 44px;
+}
+
+.info-wrapper p {
+    font-family: "Raleway", sans-serif;
+    font-size: 15.998350143432617px;
+    font-weight: 500;
+    line-height: 21.997732162475586px;
+    font-style: normal;
+    text-align: left;
+    color: #8d8d8d;
+}
+
+.cards-wrapper {
+    width: 870px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 270px;
+    margin-bottom: 50px;
+}
+
+.cards-wrapper img {
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.cards-wrapper h3 {
+    margin-bottom: 12px;
+    font-family: "Raleway", sans-serif;
+    font-size: 17.998149871826172px;
+    font-weight: 400;
+    line-height: 21.997732162475586px;
+    font-style: normal;
+    text-align: left;
+    color: #1a1a1b;
+}
+
+.cards-wrapper p {
+    font-family: "Raleway", sans-serif;
+    font-size: 15.998350143432617px;
+    font-weight: 500;
+    line-height: 21.997732162475586px;
+    font-style: normal;
+    text-align: left;
+    color: #8d8d8d;
+}
